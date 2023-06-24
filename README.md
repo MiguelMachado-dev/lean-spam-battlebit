@@ -8,7 +8,7 @@ The script works as follows:
 
 1. When the left mouse button is pressed, if the script is active, it simulates the pressing and holding of the "Q" key for 0.5 second. 
 2. It then pauses for 100 milliseconds.
-3. The script then simulates the pressing and holding of the "E" key for 1 second.
+3. The script then simulates the pressing and holding of the "E" key for 0.5 second.
 4. It pauses again for 100 milliseconds before repeating the process as long as the left mouse button remains pressed.
 5. The F10 key is used to toggle the script on and off.
 
